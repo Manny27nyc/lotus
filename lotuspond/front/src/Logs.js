@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import React from 'react'
 import { Terminal } from 'xterm';
 import { AttachAddon } from "xterm-addon-attach";

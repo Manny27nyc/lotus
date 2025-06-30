@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import util from 'ipld-dag-cbor'
 import { Buffer } from 'buffer'
 import { Tagged } from 'borc'
